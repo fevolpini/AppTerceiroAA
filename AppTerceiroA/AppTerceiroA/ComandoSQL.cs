@@ -6,6 +6,6 @@ namespace AppTerceiroA
 {
     public static class ComandoSQL
     {
-        public static string insereNome = "INSERT INTO tbl_cliente(nome) VALUES (@nome)";
+        public static string insereNome = "'1','Fernanda','fernanda9@gmail.com','123456789','0954','F'";
     }
 }
